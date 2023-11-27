@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="150px" height="161px" viewBox="0 0 150 161" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 6</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="83.0141104%" id="linearGradient-1">
+            <stop stop-color="#DCFCE7" offset="0%"></stop>
+            <stop stop-color="#BBF7D0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#86EFAC" offset="0%"></stop>
+            <stop stop-color="#BBF7D0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-90.7237839%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#BBF7D0" offset="0%"></stop>
+            <stop stop-color="#86EFAC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Large-Copy" transform="translate(-970, -368)">
+            <g id="Group-3" transform="translate(908, 263)">
+                <g id="Group-6" transform="translate(62, 105)">
+                    <rect id="Rectangle" stroke="url(#linearGradient-2)" stroke-width="3" fill="url(#linearGradient-1)" x="1.5" y="1.5" width="147" height="234" rx="23"></rect>
+                    <rect id="Rectangle" fill="url(#linearGradient-3)" x="55" y="7" width="42" height="13" rx="6.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

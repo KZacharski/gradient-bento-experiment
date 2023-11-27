@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="291px" height="205px" viewBox="0 0 291 205" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="83.0141104%" id="linearGradient-1">
+            <stop stop-color="#DCFCE7" offset="0%"></stop>
+            <stop stop-color="#BBF7D0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="352.039024" height="248" rx="18"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#BBF7D0" offset="0%"></stop>
+            <stop stop-color="#86EFAC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#4ADE80" offset="0%"></stop>
+            <stop stop-color="#22C55E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Large-Copy" transform="translate(-594, -324)">
+            <g id="Group" transform="translate(417, 263)">
+                <g id="Group-2" transform="translate(177, 61)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Rectangle" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <rect id="Rectangle" fill="url(#linearGradient-4)" mask="url(#mask-3)" x="0" y="0" width="291" height="39"></rect>
+                    <circle id="Oval" fill="url(#linearGradient-5)" mask="url(#mask-3)" cx="19.5" cy="19.5" r="6.5"></circle>
+                    <circle id="Oval-Copy" fill="url(#linearGradient-5)" mask="url(#mask-3)" cx="36.5625" cy="19.5" r="6.5"></circle>
+                    <circle id="Oval-Copy-2" fill="url(#linearGradient-5)" mask="url(#mask-3)" cx="53.625" cy="19.5" r="6.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

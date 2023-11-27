@@ -8,13 +8,10 @@ defineProps({
 </script>
 
 <template>
-  <div class="greetings">
-    <h1 class="green">{{ msg }}</h1>
-    <h3>
-      You’ve successfully created a project with
-      <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
-      <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
-    </h3>
+  <div class="p-3 w-1/3 h-full">
+  <div class="card w-full h-full bg-gradient-to-b from-white to-green-100 ring-1 ring-inset ring-black ring-opacity-10">
+    
+  </div>
   </div>
 </template>
 
@@ -40,5 +37,7 @@ h3 {
   .greetings h3 {
     text-align: left;
   }
+} .card {
+  border-radius: 30px;
 }
 </style>
