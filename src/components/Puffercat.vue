@@ -12,11 +12,11 @@ defineProps({
   <div class="card w-full h-full bg-gradient-to-b from-white to-green-100 ring-1 ring-inset ring-black ring-opacity-10 overflow-hidden hover:shadow-2xl hover:shadow-green-200 transition duration-300 ease-in-out">
     <div class="flex h-full w-full flex-col justify-center items-center">
       <div class="flex h-full w-full justify-center items-center flex-col">
-        <h2 class="text-top">Phone</h2>
-        <p class="text-bottom">I suck at design</p>
+        <h2 class="text-top">Puffercat</h2>
+        <p class="text-bottom">This is garbage</p>
       </div>
       <div>
-        <img src="../assets/phone.svg">
+        <img src="../assets/puffercat.svg">
       </div>
     </div>
   </div>

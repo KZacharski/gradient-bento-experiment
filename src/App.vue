@@ -1,6 +1,8 @@
 <script setup>
 import Desktop from './components/Desktop.vue'
 import Second from './components/Second.vue'
+import Vue from './components/Vue.vue';
+import Puffercat from './components/Puffercat.vue'
 </script>
 
 <template>
@@ -12,8 +14,8 @@ import Second from './components/Second.vue'
   <Second/>
   </div>
   <div class="bottom-row flex flex-row w-full h-1/2">
-    <Second/>
-    <Desktop/>
+    <Puffercat/>
+    <Vue/>
   </div>
   </div>
   </div>

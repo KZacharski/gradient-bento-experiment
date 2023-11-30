@@ -13,12 +13,12 @@ defineProps({
     <div class="flex flex-row h-full w-full">
     <div class="flex flex-row w-full items-center justify-center">
       <div class="flex flex-col pl-5 pr-5">
-      <h2 class="text-top">Desktop window</h2>
-      <p class="text-bottom">Idk some description lorem ipsum whatever</p>
+      <h2 class="text-top">Vue whatever</h2>
+      <p class="text-bottom">This looked much better in my head help</p>
       </div>
     </div>
     <div class="flex justify-end content-end h-full">
-    <img src="../assets/desktop.svg" class="image-card align-end justify-end self-end justify-self-end">
+    <img src="../assets/vue.svg" class="image-card align-end justify-end self-end justify-self-end">
     </div>
     </div>
   </div>
@@ -42,7 +42,6 @@ h3 {
 } h2 {
   font-size: xx-large;
   font-weight: 700;
-  width:;
 }
 
 .greetings h1,
@@ -58,7 +57,7 @@ h3 {
 } .card {
   border-radius: 30px; 
 }  .image-card {
-  width: 40rem;
+  width: 25rem;
 } .text-top {
   background-image: linear-gradient(180deg, #4ADE80, #22C55E);
   background-clip: text;
